@@ -1,7 +1,11 @@
 Hello World
 <<<<<<< HEAD
+<<<<<<< HEAD
 Back home.....came back for sure
 =======
 Back home
 :)
 >>>>>>> 8898cc21c861f4193aa5a7ab3c45b7a8cb0b4036
+=======
+Back home :)
+>>>>>>> f281006e8b46123de78f42dde45ad487aac25f0a
